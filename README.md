@@ -1,1 +1,1 @@
-# earclip
+# Ear Clip Triangulation
